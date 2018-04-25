@@ -1,0 +1,29 @@
+body{
+    box-sizing: content-box;
+    font-family: 'ABeeZee', sans-serif;
+}
+
+header{
+    background-color: #CBFCF7;
+}
+
+header > *{
+    display: inline-block;
+    text-align: center;
+}
+
+header > h1{
+    width: 5%:
+}
+
+header > form{
+    width: 75%;
+}
+
+header > navbar{
+    width: 20%;
+}
+
+.col *{
+    float: left;
+}
