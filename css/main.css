@@ -10,12 +10,7 @@ a{
 }
 
 header{
-    background-color; white;
     border-bottom: 2px  solid grey;
-    /*height: 10%;
-    padding: 1em 0 em;
-    position: fixed;
-    width: 100%;*/
 }
 
 header > *{
@@ -25,8 +20,6 @@ header > *{
 
 header > form{
     width: 60%;
-    height: 4vh;
-    padding: 0.5em;
 }
 
 header > h1{
@@ -34,11 +27,9 @@ header > h1{
     height: 5vh;
     left: 1.5em;
     position: relative;
-    width: 1%;
 }
 
 header nav{
-    height: 5vh;
     width: 28%;
 }
 
@@ -54,16 +45,6 @@ form{
     text-align: center;
 }
 
-/*form input{
-    width: 60%;
-    height: 4vh;
-}*/
-
-form > * {
-    border: none;
-    background-color:white;
-}
-
 img {
     border-radius: 10%;
     border: 50px;
@@ -75,7 +56,7 @@ img {
 
 input{
     width: 70%;
-    height: 3 em;
+    height: 3vh;
     background-color: rgb(231, 229, 229);
     border: none;
     border-radius: 3px;
@@ -109,8 +90,6 @@ main{
 .pin:hover{
     opacity: 0.5;
     color: #4F4F4F;
-    -webkit-transform: scale(1.1);
-    transform: scale(1.1);
 }
 
 .pin-title {
